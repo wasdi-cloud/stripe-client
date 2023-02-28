@@ -1,0 +1,68 @@
+[
+  {
+    "id": "OneDayStandard",
+    "name": "One Day Standard",
+    "description": "One day of standard usage of WASDI",
+    "type": "standard",
+    "amount": 50,
+    "currency": "eur",
+    "images": [
+      "https://www.wasdi.cloud/hs-fs/hubfs/WASDI_logo_text.png"
+    ]
+  },
+  {
+    "id": "OneWeekStandard",
+    "name": "One Week Standard",
+    "description": "One week of standard usage of WASDI",
+    "type": "professional",
+    "amount": 150,
+    "currency": "eur",
+    "images": [
+      "https://www.wasdi.cloud/hs-fs/hubfs/WASDI_logo_text.png"
+    ]
+  },
+  {
+    "id": "OneMonthStandard",
+    "name": "One Month Standard",
+    "description": "One month of standard usage of WASDI",
+    "type": "standard",
+    "amount": 500,
+    "currency": "eur",
+    "images": [
+      "https://www.wasdi.cloud/hs-fs/hubfs/WASDI_logo_text.png"
+    ]
+  },
+  {
+    "id": "OneYearStandard",
+    "name": "One Year Standard",
+    "description": "One year of standard usage of WASDI",
+    "type": "standard",
+    "amount": 5000,
+    "currency": "eur",
+    "images": [
+      "https://www.wasdi.cloud/hs-fs/hubfs/WASDI_logo_text.png"
+    ]
+  },
+  {
+    "id": "OneMonthProfessional",
+    "name": "One Month Professional",
+    "description": "One month of professional usage of WASDI",
+    "type": "professional",
+    "amount": 2000,
+    "currency": "eur",
+    "images": [
+      "https://www.wasdi.cloud/hs-fs/hubfs/WASDI_logo_text.png"
+    ]
+  },
+  {
+    "id": "OneYearProfessional",
+    "name": "One Year Professional",
+    "description": "One year of professional usage of WASDI",
+    "type": "professional",
+    "amount": 20000,
+    "currency": "eur",
+    "images": [
+      "https://www.wasdi.cloud/hs-fs/hubfs/WASDI_logo_text.png"
+    ]
+  }
+]
